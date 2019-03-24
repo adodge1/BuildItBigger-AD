@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">jokeCoreLib</string>
+    <string name="joke_key">jokeKey</string>
+</resources>
